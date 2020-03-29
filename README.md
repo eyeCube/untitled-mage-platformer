@@ -1,9 +1,8 @@
 # untitled-mage-platformer
-Made in Game Maker by Jacob Wharton
+Made in Game Maker.
+Art and programming by Jacob Wharton.
 
-Developer:
-	Jacob Wharton
-	eyecube1@protonmail.com
+Email: eyecube1@protonmail.com
 
 To play demo, run q.exe
 
