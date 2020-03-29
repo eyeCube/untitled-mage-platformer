@@ -1,6 +1,6 @@
 # untitled-mage-platformer
 Made in Game Maker.
-Art and programming by Jacob Wharton.
+Art, programming, and design by Jacob Wharton.
 
 Email: eyecube1@protonmail.com
 
