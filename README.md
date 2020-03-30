@@ -3,7 +3,7 @@ This game was never finished, but it's still fun to play. Art, programming, and 
 
 Email: eyecube1@protonmail.com
 
-To play demo, run q.exe
+To play demo, run q.exe in compatibility mode for Windows XP (it was compiled on XP)
 
 Controls:
 
