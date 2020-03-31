@@ -7,7 +7,7 @@ To play demo, run q.exe in compatibility mode for Windows XP (it was compiled on
 
 Controls:
 
-R: reset when you die (it doesn't automatically kill you)
+R: reset when you die (it doesn't automatically reset when you die)
 
 Arrow keys: move, jump, wall jump, climb
 
